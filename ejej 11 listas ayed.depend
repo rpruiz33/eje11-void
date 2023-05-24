@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1684691711 source:c:\users\casar\onedrive\documentos\documents\ejej 11 listas ayed\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"edificio.h"
+
+1684691735 source:c:\users\casar\onedrive\documentos\documents\ejej 11 listas ayed\lista.c
+	"lista.h"
+	<stdlib.h>
+	<string.h>
+	"edificio.h"
+
+1684691313 c:\users\casar\onedrive\documentos\documents\ejej 11 listas ayed\lista.h
+
+1684685555 source:c:\users\casar\onedrive\documentos\documents\ejej 11 listas ayed\edificio.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"edificio.h"
+	"string.h"
+
+1684691321 c:\users\casar\onedrive\documentos\documents\ejej 11 listas ayed\edificio.h
+	"edificio.h"
+
